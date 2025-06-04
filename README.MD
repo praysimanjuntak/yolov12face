@@ -14,11 +14,11 @@ A face detection implementation using YOLOv12 models, evaluated on the WiderFace
 
 | Model | Easy | Medium | Hard | Weights |
 |-------|------|--------|------|---------|
-| YOLOv12n | 0.9400 | 0.9188 | 0.7786 | [PyTorch](link-to-be-added) \| [ONNX](link-to-be-added) |
-| YOLOv12s | 0.9529 | 0.9376 | 0.8205 | [PyTorch](link-to-be-added) \| [ONNX](link-to-be-added) |
-| YOLOv12m | 0.9590 | 0.9466 | 0.8422 | [PyTorch](link-to-be-added) \| [ONNX](link-to-be-added) |
-| YOLOv12l | 0.9620 | 0.9508 | 0.8473 | [PyTorch](link-to-be-added) \| [ONNX](link-to-be-added) |
-| YOLOv12x | 0.9630 | 0.9528 | 0.8549 | [PyTorch](link-to-be-added) \| [ONNX](link-to-be-added) |
+| YOLOv12n | 0.9400 | 0.9188 | 0.7786 | [PyTorch](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12n-face.pt) \| [ONNX](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12n-face.onnx) |
+| YOLOv12s | 0.9529 | 0.9376 | 0.8205 | [PyTorch](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12s-face.pt) \| [ONNX](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12s-face.onnx) |
+| YOLOv12m | 0.9590 | 0.9466 | 0.8422 | [PyTorch](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12m-face.pt) \| [ONNX](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12m-face.onnx) |
+| YOLOv12l | 0.9620 | 0.9508 | 0.8473 | [PyTorch](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12l-face.pt) \| [ONNX](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12l-face.onnx) |
+| YOLOv12x | 0.9630 | 0.9528 | 0.8549 | [PyTorch](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12x-face.pt) \| [ONNX](https://github.com/praysimanjuntak/yolov12face/releases/download/v1.0.0/yolov12x-face.onnx) |
 
 *Evaluation performed on WiderFace validation set using standard evaluation protocol.*
 
